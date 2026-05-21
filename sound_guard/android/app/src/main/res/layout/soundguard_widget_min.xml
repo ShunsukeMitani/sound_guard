@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="6dp"
+    android:background="#111111">
+
+    <TextView
+        android:id="@+id/widget_min_db_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="--dB"
+        android:textColor="#00E5FF"
+        android:textSize="20sp"
+        android:fontFamily="monospace"
+        android:textStyle="bold" />
+
+</RelativeLayout>
